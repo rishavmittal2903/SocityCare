@@ -1,0 +1,11 @@
+C:\Rishav_Work\SocietyCare\SocietyCare\SocietyCare\bin\Debug\netcoreapp2.0\SocietyCare.deps.json
+C:\Rishav_Work\SocietyCare\SocietyCare\SocietyCare\bin\Debug\netcoreapp2.0\SocietyCare.runtimeconfig.json
+C:\Rishav_Work\SocietyCare\SocietyCare\SocietyCare\bin\Debug\netcoreapp2.0\SocietyCare.runtimeconfig.dev.json
+C:\Rishav_Work\SocietyCare\SocietyCare\SocietyCare\bin\Debug\netcoreapp2.0\SocietyCare.dll
+C:\Rishav_Work\SocietyCare\SocietyCare\SocietyCare\bin\Debug\netcoreapp2.0\SocietyCare.pdb
+C:\Rishav_Work\SocietyCare\SocietyCare\SocietyCare\obj\Debug\netcoreapp2.0\SocietyCare.csproj.CoreCompileInputs.cache
+C:\Rishav_Work\SocietyCare\SocietyCare\SocietyCare\obj\Debug\netcoreapp2.0\SocietyCare.AssemblyInfoInputs.cache
+C:\Rishav_Work\SocietyCare\SocietyCare\SocietyCare\obj\Debug\netcoreapp2.0\SocietyCare.AssemblyInfo.cs
+C:\Rishav_Work\SocietyCare\SocietyCare\SocietyCare\obj\Debug\netcoreapp2.0\SocietyCare.dll
+C:\Rishav_Work\SocietyCare\SocietyCare\SocietyCare\obj\Debug\netcoreapp2.0\SocietyCare.pdb
+C:\Rishav_Work\SocietyCare\SocietyCare\SocietyCare\obj\Debug\netcoreapp2.0\SocietyCare.csprojAssemblyReference.cache
